@@ -1,0 +1,14 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "- Theory - v8 engine, general explanation.\r - How node works\r - Use cases and companies using node.\r - Node install\r - node module system:",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./back/index.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
